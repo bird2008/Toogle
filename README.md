@@ -1,2 +1,2 @@
-# toogle
+# toggle
 Sample toggle button.
